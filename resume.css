@@ -127,8 +127,8 @@ td {
   }
 }
 
-@media only screen and (max-width: 400px) {
-			p, li, table, .site {
+@media only screen and (max-width: 412px) {
+	p, li, table, .site {
 		font-size: 1.3em;
 	}
 	h3 {
